@@ -77,9 +77,9 @@ Thus the program to Print 'Printer' using malloc() and free() has been executed 
 # Program-6-c
 ## C-Module 6
 ## EX_NO-06)c)-User Defined Datatype
-### Date: 19-10-2025
-### Name: Anish D
-### Register Number:25010086
+### Date: 20-12-2025
+### Name: Karthiga S
+### Register Number:25017584
 ## AIM:
 C program to read and print an employee's detail using structure
 ## ALGORITHM:
